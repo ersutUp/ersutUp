@@ -1,16 +1,18 @@
-### Hi there 👋
+# 简历
 
-<!--
-**ersutUp/ersutUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 联系方式
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 手机号/微信：15612****75
+- 邮箱：83889573@qq.com
+
+## 个人信息
+
+------
+
+- 男 / 1996
+- 本科 / 计算机科学与技术
+- 应聘职位：Java后台开发 / Go后台开发
+- 期待薪资：面议
+
